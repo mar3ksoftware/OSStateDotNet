@@ -1,0 +1,10 @@
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\bin\Debug\netstandard2.1\OSStateDotNet.deps.json
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\bin\Debug\netstandard2.1\OSStateDotNet.dll
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\bin\Debug\netstandard2.1\OSStateDotNet.pdb
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.csproj.AssemblyReference.cache
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.AssemblyInfoInputs.cache
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.AssemblyInfo.cs
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.dll
+C:\Users\Marcin Janczak\RiderProjects\OSStateDotNet\OSStateDotNet\obj\Debug\netstandard2.1\OSStateDotNet.pdb
